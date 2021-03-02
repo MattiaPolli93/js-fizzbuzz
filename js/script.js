@@ -5,8 +5,6 @@ console.log("Below are the numbers ranging from 1 to 100. Fizz is a multiple of 
 console.log();
 
 // For loop dealing with all the required instructions
-var i;
-
 for (var i = 1; i <= 100; i++) {
     // Multiples of 3 and 5 (of 15)
     if ((i % 3 === 0) && (i % 5 === 0)) {
